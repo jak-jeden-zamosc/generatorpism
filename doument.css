@@ -1,0 +1,34 @@
+.pismo {
+    width: 800px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+.adresat {
+    padding-top: 50px;
+    padding-right: 40px;
+    float: right;
+    width: 400px;
+    height: 54px;
+}
+.imie {
+    width: 150px;
+    height: 54px;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.wiersz-1 {
+    background-color: antiquewhite;
+    margin-top: 180px;
+    width: 800px;
+    height: 200px;
+}
+.wiersz-2 {
+    background-color: aqua;
+    width: 800px;
+    height: 200px;
+}
+.tekst {
+    text-indent: 10px;
+}
