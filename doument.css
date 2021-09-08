@@ -1,0 +1,41 @@
+.pismo {
+    width: 800px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+.adresat {
+    padding-top: 50px;
+    padding-right: 40px;
+    float: right;
+    width: 400px;
+    height: 54px;
+}
+.imie {
+    width: 150px;
+    height: 54px;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.wiersz-1 {
+    margin-top: 180px;
+    width: 800px;
+    height: 120px;
+}
+.wiersz-2 {
+    width: 800px;
+    height: 200px;
+}
+.tekst {
+    display:inline-block;
+    text-indent: 30px;
+}
+.zpowazaniem {
+    padding-left: 40px;
+}
+.podpis {
+    float: right;
+    margin-top: 240px;
+    margin-right: 100px;
+}
