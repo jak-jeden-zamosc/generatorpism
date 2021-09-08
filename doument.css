@@ -19,16 +19,23 @@
     padding-left: 100px;
 }
 .wiersz-1 {
-    background-color: antiquewhite;
     margin-top: 180px;
     width: 800px;
-    height: 200px;
+    height: 120px;
 }
 .wiersz-2 {
-    background-color: aqua;
     width: 800px;
     height: 200px;
 }
 .tekst {
-    text-indent: 10px;
+    display:inline-block;
+    text-indent: 30px;
+}
+.zpowazaniem {
+    padding-left: 40px;
+}
+.podpis {
+    float: right;
+    margin-top: 240px;
+    margin-right: 100px;
 }
