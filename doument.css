@@ -1,0 +1,63 @@
+.pismo {
+    width: 800px;
+    height: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+
+}
+.adresat {
+    font-weight: bold;
+    /* background-color: bisque; */
+    padding-top: 50px;
+    padding-right: 60px;
+    line-height: 1.5;
+    float: right;
+    width: 400px;
+    height: 54px;
+}
+.imie {
+    font-weight: bold;
+    width: 150px;
+    height: 54px;
+    line-height: 1.5;
+    padding-top: 10px;
+    padding-left: 60px;
+}
+.wiersz-1 {
+    /* background-color: aqua; */
+    margin-top: 20px;
+    width: 800px;
+    height: 120px;
+
+}
+.wiersz-2 {
+    /* background-color: bisque; */
+    width: 800px;
+    height: 200px;
+}
+.tekst {
+    display:inline-block;
+    text-indent: 30px;
+    margin-left: 20px;
+    margin-right: 20px
+}
+.zpowazaniem {
+    padding-left: 40px;
+}
+.podpis {
+    font-weight: bold;
+    float: right;
+    margin-top: 250px;
+    margin-right: 100px;
+}
+.staly {
+    display:inline-block;
+    padding-top: 50px;
+} 
+.data {
+    position: relative;
+    left: 460px;
+    bottom: 120px;
+    width: 260px;
+}
