@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    /* font-family: 'Lato', sans-serif; */
+    text-align: left;
+    margin-top: 50px;
+    background-color: #212121;
+}
+.info {
+    width: 1140px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif;
+}
+.pismo-1 { 
+    display: block;
+    color: #fff;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+.down {
+    margin-top: 10px;
+    padding-right: 170px;
+    float: right;
+}
+.przycisk {
+    font-size: large;
+    font-family: 'Lato', sans-serif;
+    width: 25px;
+    height: 25px;
+    background-color: #9b68fa;
+    border: none;
+    border-radius: 25px;
+}
+.pobierz {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    border: none;
+    background-color: #9b68fa;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+}
+button:hover {
+    background-color: #894ff3;
+}
+
